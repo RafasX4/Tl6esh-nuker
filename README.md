@@ -1,32 +1,46 @@
-# Tl6esh-nuker
-A powerful and efficient tool for managing Discord accounts and servers, developed in C# to provide high performance and fast execution. The tool primarily focuses on Account Nuker and Server Nuker functionalities, allowing users full control over their Discord environments. 👀
+# Tl6esh-Nuker
 
-# Features 👙
-Account Nuker: A set of functionalities to nuke Discord accounts, including:
- • Sending mass messages to friends
- • Leaving and deleting all servers.
- • Removing all friends
- • Creating a large number of new servers
- • Changing account settings (e.g., theme, language, custom status).
- 
-  Server Nuker: Advanced functionalities for server management, including:
- • Fetching detailed information about any Discord server (name, ID, owner, member count, region, icon URL).
- • Command-Line Interface (CLI): A simple and clear command-line interface, utilizing distinctive red colors for an engaging user experience.
- • High Performance: The tool is developed in C# to ensure speed and efficiency in handling Discord API requests.•
+**Tl6esh-Nuker** is an open-source tool developed in C# designed for managing Discord accounts and servers. It offers functionalities to automate various tasks related to account and server management.
 
- # Requirements 💋
-  Operating System: Windows 7 or later (tested on Windows 10).•.NET Runtime: 
+## 🚀 Features
 
-• .NET 6.0 Runtime or newer must be installed. You can download it from the official Microsoft website.
-• Discord Tokens: You need Discord account tokens that you wish to use the tool with. These tokens should be placed in a 
-• file in the same directory as the tool, with each token on a separate line.
+### Account Management
 
-# How To use ? 🧎🏼‍♀️🎀
-Download the Tool: Download the latest version of the tool from the releases page (you will need to replace . with your GitHub username).your-username
+- **Mass Messaging**: Send messages to all friends.
+- **Server Operations**: Leave and delete all joined servers.
+- **Friend Management**: Remove all friends from the account.
+- **Server Creation**: Generate multiple new servers.
+- **Account Settings Modification**: Change settings such as theme, language, and custom status.
 
-```tokens.txt``` Prepare Tokens: Open the . file located in the tool's directory and add your Discord tokens, each on a new line
+### Server Management
 
-And Run it ..
+- **Channel Deletion**: Remove all channels within a server.
+- **Role Deletion**: Delete all roles in a server.
+- **Member Management**: Ban or kick all members from a server.
+- **Channel Creation**: Create multiple new channels.
+- **Role Creation**: Generate numerous new roles.
+- **Mass Messaging**: Send messages across all channels.
 
-# Credits 😭
-Rfas , Tl6esh
+## 🛠️ Installation
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/RafasX4/Tl6esh-nuker.git
+   cd Tl6esh-nuker
+   ```
+
+2. **Open the Project**
+   Open the `Tl6esh-Nuker.csproj` file using [Visual Studio](https://visualstudio.microsoft.com/) or any compatible C# IDE.
+
+3. **Build the Project**
+   Restore any necessary NuGet packages and build the solution to compile the application.
+
+## ⚠️ Disclaimer
+
+This tool is intended for educational and ethical purposes only. Unauthorized use of this software to disrupt or damage Discord accounts or servers is strictly prohibited and may violate Discord's Terms of Service. The developer is not responsible for any misuse or damages resulting from the use of this tool.
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+For more information and to access the source code, visit the [Tl6esh-nuker GitHub repository](https://github.com/RafasX4/Tl6esh-nuker).

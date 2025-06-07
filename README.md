@@ -41,6 +41,6 @@ This tool is intended for educational and ethical purposes only. Unauthorized us
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](License).
 
 For more information and to access the source code, visit the [Tl6esh-nuker GitHub repository](https://github.com/RafasX4/Tl6esh-nuker).
